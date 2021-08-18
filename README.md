@@ -1,5 +1,7 @@
 👋 Hi there 
 
+🚀 Here you'll find projects I've created just for fun.
+
 👀 I’m interested in front end development and automation.
 
 📫 You can reach me [here](mailto:jencolletta@gmail.com).
